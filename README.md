@@ -56,7 +56,7 @@ Experimental results demonstrate improved forecasting performance in terms of MA
 physics-informed-wind-speed-prediction/
 │
 ├── notebooks/
-│   └── research_model.ipynb
+│   └── DA_BIGRU.ipynb
 │
 ├── data/
 ├── results/
@@ -82,7 +82,7 @@ Open the notebook using Google Colab or Jupyter Notebook and run all cells.
 Main notebook:
 
 ```text
-notebooks/research_model.ipynb
+notebooks/DA_BIGRU.ipynb
 ```
 
 ---
